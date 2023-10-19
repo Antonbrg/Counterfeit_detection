@@ -30,6 +30,8 @@ mm);
 
 **This is the information that the algorithm has to work with.**
 
+**There is a test file to test the final algorithm**
+
 Parameterisation file :
    
 I have an example file containing 1,500 banknotes, which you can use as you wish to parameterise your algorithm. Of these 1,500 notes, 1,000 are true and 500 are false; a column has been added to indicate the type of note.
